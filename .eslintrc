@@ -1,0 +1,32 @@
+{
+  "parser"  : "babel-eslint",
+  "extends" : [
+    "standard",
+    "standard-react"
+  ],
+  "plugins" : [
+    "async-await",
+    "flow-vars",
+     "react"
+  ],
+  "env"     : {
+    "browser" : true
+  },
+  "globals" : {
+    "Action"       : false,
+    "__DEV__"      : false,
+    "__PROD__"     : false,
+    "__BASENAME__" : false
+  },
+  "rules": {
+    "semi" : [2, "never"],
+    "skipBlankLines": 0,
+    "max-len": [2, 2000, 2],
+    "flow-vars/define-flow-type": 1,
+    "flow-vars/use-flow-type": 1,
+    "react/jsx-no-bind": [2, { "allowBind": true, "allowArrowFunctions": true }],
+    "react/jsx-boolean-value": [2, "always"],
+    "async-await/space-after-async": 2,
+    "async-await/space-after-await": 2
+  }
+}

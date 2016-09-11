@@ -1,0 +1,23 @@
+.status_header {
+  display: block;
+  text-align: center;
+}
+.status_ball {
+  display: inline-block;
+  width: 5rem;
+  height: 5rem;
+  border-radius: 50%;
+  border: 2px solid #fff;
+  padding-top: 1rem;
+  font-size: 2rem;
+  margin-right: 5rem;
+  font-weight: 600;
+  color: #fff;
+}
+.status_ball_on {
+  background-color: #4796d0;
+}
+.last_ball {
+  margin-right: 0px;
+}
+

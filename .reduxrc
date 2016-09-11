@@ -1,0 +1,6 @@
+{
+  "sourceBase":"src",
+  "testBase":"tests",
+  "smartPath":"views",
+  "dumbPath":"components"
+}

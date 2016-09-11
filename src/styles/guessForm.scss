@@ -1,0 +1,54 @@
+.guess_form_wrapper {
+  float: left;
+  width: 50%;
+  text-align: center;
+}
+.guess_title {
+  display: block;
+  font-size: 1.8rem;
+  color: #fff;
+  text-transform: capitalize;
+  margin-bottom: 2rem;
+}
+.guess_input {
+  display: inline-block;
+  background-color: #3d445e;
+  border: 1px solid #fff;
+  outline: none;
+  height: 3rem;
+  padding-left: 1rem;
+  font-size: 1.5rem;
+  color: #fff;
+  padding-bottom: 0.4rem;
+  width: 60%;
+}
+.guess_btn {
+  display: block;
+  height: 3rem;
+  border: none;
+  outline: none;
+  width: 30%;
+  margin-left: 1rem;
+  background-color: #4796d0;
+  color: #fff;
+  font-size: 1.3rem;
+  text-transform: uppercase;
+  float: right;
+  height: 100%;
+  min-height: 3rem;
+}
+.hint_box {
+  display: block;
+}
+.hint_txt {
+  display: block;
+  float: left;
+  color: #fff;
+  font-size: 1.4rem;
+  text-transform: capitalize;
+  margin: 1rem 2rem;
+}
+.hint_img {
+  display: block;
+  margin-top: 1rem;
+}

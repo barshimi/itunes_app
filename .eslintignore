@@ -1,0 +1,3 @@
+blueprints/**/files/**
+node_modules/**
+src/index.html
