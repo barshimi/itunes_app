@@ -1,4 +1,4 @@
-# Bizzabo : Guess The Artist - Instalation guide
+# Guess The Artist - Instalation guide
 Auther: shimi bar.
 
 Web application game based on Itunes API. basic structure based on Koa.js, as HMR server for developing mode. Redux React with ES2015/ES7 and webpack as a bundler.
@@ -17,7 +17,7 @@ Web application game based on Itunes API. basic structure based on Koa.js, as HM
 
 ### Installation
 
-Bizzabo assignment requires [Node.js](https://nodejs.org/) v5+ to run.
+requires [Node.js](https://nodejs.org/) v5+ to run.
 
 You need Hombrew installed:
 ```sh
@@ -50,5 +50,3 @@ MIT
    [node.js]: <https://nodejs.org/en/>
    [Koa.js]: <http://koajs.com/>
    [Webpack]: <https://webpack.github.io/>
-
-
