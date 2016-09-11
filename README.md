@@ -1,5 +1,5 @@
 # Guess The Artist - Instalation guide
-Auther: shimi bar.
+Author: shimi bar.
 
 Web application game based on Itunes API. basic structure based on Koa.js, as HMR server for developing mode. Redux React with ES2015/ES7 and webpack as a bundler.
 
